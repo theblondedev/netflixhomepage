@@ -11,6 +11,7 @@ The page replicates the general layout and design style of the Netflix landing p
 * HTML5
 * CSS3
 * Flexbox
+* JavaScript (basic interactivity)
 * Basic responsive layout techniques
 
 ## Features
