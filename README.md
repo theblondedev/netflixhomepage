@@ -42,5 +42,7 @@ If I revisit this project, I would like to:
 * Potentially add JavaScript for interactive elements
 
 ---
+## Visit the project here:
+https://theblondedev.github.io/netflixhomepage/
 
 *This project was created for learning purposes and is not affiliated with Netflix.*
