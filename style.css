@@ -315,7 +315,7 @@ ul.first{ float:left;
     
     }
     
-    /* Style the button that is used to open and close the collapsible content */
+   
     .collapsible {
       background-color: rgb(48,48,48);
       color: white;
@@ -330,10 +330,13 @@ ul.first{ float:left;
       margin-bottom:6px;
     }
     
-    /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-    .active, .collapsible {
-      background-color: white;
-    }
+    .collapsible {
+  background-color: rgb(48,48,48);
+}
+
+.collapsible.active {
+  background-color:#4d4c4c;
+}
     .collapsible:hover {
       background-color:#4d4c4c;
     }
